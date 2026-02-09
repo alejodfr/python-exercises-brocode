@@ -17,3 +17,6 @@ Thumbs.db
 
 # VS Code settings (optional)
 .vscode/
+
+# Pycharm .idea/
+.idea/
